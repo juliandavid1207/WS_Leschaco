@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WSArchivosLCH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|c:\\wsarchivoslch\\services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|solutionrelative:services\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|c:\\wsarchivoslch\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|solutionrelative:worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|c:\\wsarchivoslch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|c:\\wsarchivoslch\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|c:\\wsarchivoslch\\operaciones\\gestionaractividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|solutionrelative:operaciones\\gestionaractividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|c:\\wsarchivoslch\\operaciones\\gestionaroperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|solutionrelative:operaciones\\gestionaroperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|c:\\wsarchivoslch\\models\\archivoslch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|solutionrelative:models\\archivoslch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|c:\\wsarchivoslch\\abstractions\\inotificaractividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|solutionrelative:abstractions\\inotificaractividades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|c:\\wsarchivoslch\\models\\getarchivosfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|solutionrelative:models\\getarchivosfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|c:\\wsarchivoslch\\models\\notificacioneslch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|solutionrelative:models\\notificacioneslch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jotalora\\AppData\\Local\\Temp\\.vsdbgsrc\\49d50110382613cedbb289718cb89828dfcaa203aa08e9f1d3947ed63a17f4f8\\Convert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|c:\\wsarchivoslch\\abstractions\\iprocesosoperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|solutionrelative:abstractions\\iprocesosoperaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|c:\\wsarchivoslch\\models\\vnotificacionarribo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|solutionrelative:models\\vnotificacionarribo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|c:\\wsarchivoslch\\models\\vnotificacionarribolch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|solutionrelative:models\\vnotificacionarribolch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|c:\\wsarchivoslch\\abstractions\\ileschacoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|solutionrelative:abstractions\\ileschacoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jotalora\\AppData\\Local\\Temp\\.vsdbgsrc\\620f347a956d75868839306553b6a294b7ff91d5ffff19f3e36519f687a21429\\JsonSerializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|c:\\wsarchivoslch\\models\\attachedfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|solutionrelative:models\\attachedfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|c:\\wsarchivoslch\\models\\archivosfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|solutionrelative:models\\archivosfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|c:\\wsarchivoslch\\models\\archivosenviados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A337156-247C-4081-8A81-F32861D76ED6}|WSArchivosLCH.csproj|solutionrelative:models\\archivosenviados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jotalora\\AppData\\Local\\Temp\\.vsdbgsrc\\2605b088bc9b6e7f25b94fa2e936435dfd79ff0377b7c57bc9df15a024bf96cd\\HostBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Convert.cs",
+              "DocumentMoniker": "C:\\Users\\jotalora\\AppData\\Local\\Temp\\.vsdbgsrc\\49d50110382613cedbb289718cb89828dfcaa203aa08e9f1d3947ed63a17f4f8\\Convert.cs",
+              "RelativeDocumentMoniker": "..\\Users\\jotalora\\AppData\\Local\\Temp\\.vsdbgsrc\\49d50110382613cedbb289718cb89828dfcaa203aa08e9f1d3947ed63a17f4f8\\Convert.cs",
+              "ToolTip": "C:\\Users\\jotalora\\AppData\\Local\\Temp\\.vsdbgsrc\\49d50110382613cedbb289718cb89828dfcaa203aa08e9f1d3947ed63a17f4f8\\Convert.cs [Solo lectura]",
+              "RelativeToolTip": "..\\Users\\jotalora\\AppData\\Local\\Temp\\.vsdbgsrc\\49d50110382613cedbb289718cb89828dfcaa203aa08e9f1d3947ed63a17f4f8\\Convert.cs [Solo lectura]",
+              "ViewState": "AQIAAJYFAAAAAAAAAAAWwKsFAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:56:06.775Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProcesosOperaciones.cs",
+              "DocumentMoniker": "C:\\WSArchivosLCH\\Abstractions\\IProcesosOperaciones.cs",
+              "RelativeDocumentMoniker": "Abstractions\\IProcesosOperaciones.cs",
+              "ToolTip": "C:\\WSArchivosLCH\\Abstractions\\IProcesosOperaciones.cs",
+              "RelativeToolTip": "Abstractions\\IProcesosOperaciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:58:56.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GestionarOperaciones.cs",
+              "DocumentMoniker": "C:\\WSArchivosLCH\\Operaciones\\GestionarOperaciones.cs",
+              "RelativeDocumentMoniker": "Operaciones\\GestionarOperaciones.cs",
+              "ToolTip": "C:\\WSArchivosLCH\\Operaciones\\GestionarOperaciones.cs",
+              "RelativeToolTip": "Operaciones\\GestionarOperaciones.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAtwBwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:58:36.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GestionarActividades.cs",
+              "DocumentMoniker": "C:\\WSArchivosLCH\\Operaciones\\GestionarActividades.cs",
+              "RelativeDocumentMoniker": "Operaciones\\GestionarActividades.cs",
+              "ToolTip": "C:\\WSArchivosLCH\\Operaciones\\GestionarActividades.cs",
+              "RelativeToolTip": "Operaciones\\GestionarActividades.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:42:55.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "INotificarActividades.cs",
+              "DocumentMoniker": "C:\\WSArchivosLCH\\Abstractions\\INotificarActividades.cs",
+              "RelativeDocumentMoniker": "Abstractions\\INotificarActividades.cs",
+              "ToolTip": "C:\\WSArchivosLCH\\Abstractions\\INotificarActividades.cs",
+              "RelativeToolTip": "Abstractions\\INotificarActividades.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T15:40:24.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JsonSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\jotalora\\AppData\\Local\\Temp\\.vsdbgsrc\\620f347a956d75868839306553b6a294b7ff91d5ffff19f3e36519f687a21429\\JsonSerializer.cs",
+              "RelativeDocumentMoniker": "..\\Users\\jotalora\\AppData\\Local\\Temp\\.vsdbgsrc\\620f347a956d75868839306553b6a294b7ff91d5ffff19f3e36519f687a21429\\JsonSerializer.cs",
+              "ToolTip": "C:\\Users\\jotalora\\AppData\\Local\\Temp\\.vsdbgsrc\\620f347a956d75868839306553b6a294b7ff91d5ffff19f3e36519f687a21429\\JsonSerializer.cs [Solo lectura]",
+              "RelativeToolTip": "..\\Users\\jotalora\\AppData\\Local\\Temp\\.vsdbgsrc\\620f347a956d75868839306553b6a294b7ff91d5ffff19f3e36519f687a21429\\JsonSerializer.cs [Solo lectura]",
+              "ViewState": "AQIAAF0EAAAAAAAAAAAawHQEAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:06:21.46Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AttachedFile.cs",
+              "DocumentMoniker": "C:\\WSArchivosLCH\\Models\\AttachedFile.cs",
+              "RelativeDocumentMoniker": "Models\\AttachedFile.cs",
+              "ToolTip": "C:\\WSArchivosLCH\\Models\\AttachedFile.cs",
+              "RelativeToolTip": "Models\\AttachedFile.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:56:01.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArchivosLch.cs",
+              "DocumentMoniker": "C:\\WSArchivosLCH\\Models\\ArchivosLch.cs",
+              "RelativeDocumentMoniker": "Models\\ArchivosLch.cs",
+              "ToolTip": "C:\\WSArchivosLCH\\Models\\ArchivosLch.cs",
+              "RelativeToolTip": "Models\\ArchivosLch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T20:08:42.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VNotificacionArriboLch.cs",
+              "DocumentMoniker": "C:\\WSArchivosLCH\\Models\\VNotificacionArriboLch.cs",
+              "RelativeDocumentMoniker": "Models\\VNotificacionArriboLch.cs",
+              "ToolTip": "C:\\WSArchivosLCH\\Models\\VNotificacionArriboLch.cs",
+              "RelativeToolTip": "Models\\VNotificacionArriboLch.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:30:17.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VNotificacionArribo.cs",
+              "DocumentMoniker": "C:\\WSArchivosLCH\\Models\\VNotificacionArribo.cs",
+              "RelativeDocumentMoniker": "Models\\VNotificacionArribo.cs",
+              "ToolTip": "C:\\WSArchivosLCH\\Models\\VNotificacionArribo.cs",
+              "RelativeToolTip": "Models\\VNotificacionArribo.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:19:52.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotificacionesLCH.cs",
+              "DocumentMoniker": "C:\\WSArchivosLCH\\Models\\NotificacionesLCH.cs",
+              "RelativeDocumentMoniker": "Models\\NotificacionesLCH.cs",
+              "ToolTip": "C:\\WSArchivosLCH\\Models\\NotificacionesLCH.cs",
+              "RelativeToolTip": "Models\\NotificacionesLCH.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:05:06.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ArchivosEnviados.cs",
+              "DocumentMoniker": "C:\\WSArchivosLCH\\Models\\ArchivosEnviados.cs",
+              "RelativeDocumentMoniker": "Models\\ArchivosEnviados.cs",
+              "ToolTip": "C:\\WSArchivosLCH\\Models\\ArchivosEnviados.cs",
+              "RelativeToolTip": "Models\\ArchivosEnviados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:50:14.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\WSArchivosLCH\\Services\\Services.cs",
+              "RelativeDocumentMoniker": "Services\\Services.cs",
+              "ToolTip": "C:\\WSArchivosLCH\\Services\\Services.cs",
+              "RelativeToolTip": "Services\\Services.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAiwFIBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:08:53.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ILeschacoServices.cs",
+              "DocumentMoniker": "C:\\WSArchivosLCH\\Abstractions\\ILeschacoServices.cs",
+              "RelativeDocumentMoniker": "Abstractions\\ILeschacoServices.cs",
+              "ToolTip": "C:\\WSArchivosLCH\\Abstractions\\ILeschacoServices.cs",
+              "RelativeToolTip": "Abstractions\\ILeschacoServices.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAnwA4AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:08:42.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\WSArchivosLCH\\Worker.cs",
+              "RelativeDocumentMoniker": "Worker.cs",
+              "ToolTip": "C:\\WSArchivosLCH\\Worker.cs",
+              "RelativeToolTip": "Worker.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:47:54.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\WSArchivosLCH\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\WSArchivosLCH\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T21:57:23.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WSArchivosLCH\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\WSArchivosLCH\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T21:47:58.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HostBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\jotalora\\AppData\\Local\\Temp\\.vsdbgsrc\\2605b088bc9b6e7f25b94fa2e936435dfd79ff0377b7c57bc9df15a024bf96cd\\HostBuilder.cs",
+              "RelativeDocumentMoniker": "..\\Users\\jotalora\\AppData\\Local\\Temp\\.vsdbgsrc\\2605b088bc9b6e7f25b94fa2e936435dfd79ff0377b7c57bc9df15a024bf96cd\\HostBuilder.cs",
+              "ToolTip": "C:\\Users\\jotalora\\AppData\\Local\\Temp\\.vsdbgsrc\\2605b088bc9b6e7f25b94fa2e936435dfd79ff0377b7c57bc9df15a024bf96cd\\HostBuilder.cs [Solo lectura]",
+              "RelativeToolTip": "..\\Users\\jotalora\\AppData\\Local\\Temp\\.vsdbgsrc\\2605b088bc9b6e7f25b94fa2e936435dfd79ff0377b7c57bc9df15a024bf96cd\\HostBuilder.cs [Solo lectura]",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAYwMQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:46:59.104Z",
+              "EditorCaption": " [Solo lectura]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ArchivosFile.cs",
+              "DocumentMoniker": "C:\\WSArchivosLCH\\Models\\ArchivosFile.cs",
+              "RelativeDocumentMoniker": "Models\\ArchivosFile.cs",
+              "ToolTip": "C:\\WSArchivosLCH\\Models\\ArchivosFile.cs",
+              "RelativeToolTip": "Models\\ArchivosFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T22:32:41.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetArchivosFile.cs",
+              "DocumentMoniker": "C:\\WSArchivosLCH\\Models\\GetArchivosFile.cs",
+              "RelativeDocumentMoniker": "Models\\GetArchivosFile.cs",
+              "ToolTip": "C:\\WSArchivosLCH\\Models\\GetArchivosFile.cs",
+              "RelativeToolTip": "Models\\GetArchivosFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:08:22.54Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
