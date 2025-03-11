@@ -32,5 +32,39 @@ namespace WSArchivosLCH.Operaciones
 
             }
         }
+
+        public async Task NotificarAtraso()
+        {
+            try
+            {
+                var result = await _leschacoServices.ConsultaAtraso();
+                if (result != null)
+                {
+                    var actividades = JsonSerializer.Deserialize<List<VNotificacionAtraso>>(result);
+                    var envio = await _leschacoServices.EnviarAtraso(actividades);
+                }
+            }
+            catch (Exception ex)
+            {
+
+            }
+        }
+
+        public async Task NotificarDesconsolidacion()
+        {
+            try
+            {
+                var result = await _leschacoServices.ConsultaDesconsolidacion();
+                if (result != null)
+                {
+                    var actividades = JsonSerializer.Deserialize<List<VNotificacionDesconsolidacion>>(result);
+                    var envio = await _leschacoServices.EnviarDesconsolidacion(actividades);
+                }
+            }
+            catch (Exception ex)
+            {
+
+            }
+        }
     }
 }

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WSArchivosLCH")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+814b782e992394668ef0bb536a53be6fc027590b")]
 [assembly: System.Reflection.AssemblyProductAttribute("WSArchivosLCH")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WSArchivosLCH")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

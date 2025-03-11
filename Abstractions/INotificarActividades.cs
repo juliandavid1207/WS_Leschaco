@@ -9,5 +9,7 @@ namespace WSArchivosLCH.Abstractions
     public interface INotificarActividades
     {
         public Task NotificarArribo();
+        public Task NotificarDesconsolidacion();
+        public Task NotificarAtraso();
     }
 }

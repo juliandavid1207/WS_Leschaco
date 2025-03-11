@@ -13,5 +13,6 @@ namespace WSArchivosLCH.Models
         public string NumeroNotificacion { get; set; } = null!;
         public DateTime FechaNotificacion { get; set; }
         public bool Notificado { get; set; }
+        public int Estimada { get; set; }
     }
 }

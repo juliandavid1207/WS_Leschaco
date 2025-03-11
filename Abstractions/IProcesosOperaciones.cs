@@ -10,5 +10,6 @@ namespace WSArchivosLCH.Abstractions
     {
         public Task EnviarArchivosLch();
         public Task CopiarArchivosFile();
+        public Task EnviarArchivosLchFotograficos();
     }
 }

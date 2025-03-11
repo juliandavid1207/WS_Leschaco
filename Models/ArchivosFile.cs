@@ -11,6 +11,7 @@ namespace WSArchivosLCH.Models
         public string? File { get; set; }
         public string? Codigo { get; set; }
         public string? NombreCopia { get; set; }
+        public string? Hbl { get; set; }
         public string? Extension { get; set; }
         public DateTime? FechaCargue { get; set; }
         public DateTime? FechaCopia { get; set; }

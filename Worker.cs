@@ -43,8 +43,8 @@ namespace WSArchivosLCH
         {
             try
             {
+                //await GestionarActividades();
                 await GestionarOperaciones();
-                await GestionarActividades();
             }
             catch(Exception ex) {
             
@@ -56,8 +56,9 @@ namespace WSArchivosLCH
         {
             try
             {
+                //await _operaciones.EnviarArchivosLchFotograficos();
                 await _operaciones.EnviarArchivosLch();
-                await _operaciones.CopiarArchivosFile();
+                //await _operaciones.CopiarArchivosFile();
             }
             catch (Exception ex)
             {
@@ -69,7 +70,9 @@ namespace WSArchivosLCH
         {
             try
             {
+                await _actividades.NotificarAtraso();
                 await _actividades.NotificarArribo();
+                await _actividades.NotificarDesconsolidacion();          
             }
             catch (Exception ex) 
             { 

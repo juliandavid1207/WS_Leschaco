@@ -43,7 +43,40 @@ namespace WSArchivosLCH.Operaciones
                 if (result != null)
                 {
                     var facturas = JsonSerializer.Deserialize<List<GetArchivosFile>>(result);
-                    var envio = await _leschacoServices.EnviarArchivosLch(facturas);
+                    if (facturas != null)  
+                    {
+                        foreach (var fac in facturas)
+                        {
+                            if (fac.archivos != null && !string.IsNullOrEmpty(fac.archivos.RutaArchivo)) 
+                            {
+                                //fac.archivos.Base64 = await _leschacoServices.EncodeFile(fac.archivos.RutaArchivo);
+                            }
+                        }
+
+                        var envio = await _leschacoServices.EnviarArchivosLch(facturas);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+
+            }
+        }
+
+        public async Task EnviarArchivosLchFotograficos()
+        {
+            try
+            {
+                var result = await _leschacoServices.ConsultarArchivosFileFotograficos();
+                if (result != null)
+                {
+                    var facturas = JsonSerializer.Deserialize<GetArchivosFile>(result);
+                    if (facturas != null)
+                    {
+                        var ruta = facturas.archivos.RutaArchivo;
+                        facturas.archivos.Base64 = await _leschacoServices.EncodeFile(ruta);
+                        var envio = await _leschacoServices.EnviarArchivosLchFotograficos(facturas);
+                    }
                 }
             }
             catch (Exception ex)

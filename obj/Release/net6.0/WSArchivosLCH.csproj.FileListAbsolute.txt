@@ -80,3 +80,4 @@ C:\WSArchivosLCH\obj\Release\net6.0\refint\WSArchivosLCH.dll
 C:\WSArchivosLCH\obj\Release\net6.0\WSArchivosLCH.pdb
 C:\WSArchivosLCH\obj\Release\net6.0\WSArchivosLCH.genruntimeconfig.cache
 C:\WSArchivosLCH\obj\Release\net6.0\ref\WSArchivosLCH.dll
+C:\WSArchivosLCH\obj\Release\net6.0\WSArchivosLCH.sourcelink.json
