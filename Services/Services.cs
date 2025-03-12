@@ -200,7 +200,8 @@ namespace WSArchivosLCH.Services
                 hbl = archivo.Hbl.Trim(),
                 mime= archivo.Codigo == "16" ? "application/zip" : "application/pdf",
                 idmaster = adicionales.IdMaster,
-                idhouse = adicionales.IdHouse
+                idhouse = adicionales.IdHouse,
+                planilla = archivo.NombreCopia == null ? "" : archivo.NombreCopia.Trim()
             };
             var json = JsonSerializer.Serialize(attached);             
             
