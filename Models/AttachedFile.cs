@@ -18,6 +18,7 @@ namespace WSArchivosLCH.Models
         public string mime { get; set; }
         public string idmaster { get; set; }
         public string idhouse { get; set; }
+        public string planilla { get; set; }
      
 
     }
